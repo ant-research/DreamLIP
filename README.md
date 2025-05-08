@@ -10,7 +10,7 @@
 <a href="http://home.ustc.edu.cn/~jinxustc/">Xin Jin</a>,</span>
 <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>,</span>
 <a href="https://shenyujun.github.io/">Yujun Shen</a> <br>
-[Project Page](https://zyf0619sjtu.github.io/dream-lip/) | [Paper](https://arxiv.org/pdf/2403.17007.pdf) | [Data](https://github.com/ant-research/DreamLIP-DATA)
+[Project Page](https://zyf0619sjtu.github.io/dream-lip/) | [Paper](https://arxiv.org/pdf/2403.17007.pdf)
 
 
 ## 📰 News
